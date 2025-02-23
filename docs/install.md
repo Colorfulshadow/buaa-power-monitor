@@ -14,7 +14,7 @@ pip3 install requests beautifulsoup4
 2. 下载项目
 ```bash
 cd /root
-git clone https://github.com/your-username/buaa-power-monitor.git
+git clone https://github.com/colorfulshadow/buaa-power-monitor.git
 cd buaa-power-monitor
 ```
 
