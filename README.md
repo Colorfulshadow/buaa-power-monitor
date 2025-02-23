@@ -31,8 +31,8 @@ cd buaa-power-monitor
 # 安装服务
 cp service/power_monitor /etc/init.d/power_monitor
 chmod +x /etc/init.d/power_monitor
-cp src/monitor.py /usr/bin/power_monitor/
-chmod +x /usr/bin/power_monitor/monitor.py
+cp src/monitor.py /usr/bin/monitor.py
+chmod +x /usr/bin/monitor.py
 
 # 启动服务
 /etc/init.d/power_monitor enable
